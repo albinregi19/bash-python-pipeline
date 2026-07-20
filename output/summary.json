@@ -1,0 +1,11 @@
+{
+    "total_records": 150,
+    "records_after_cleaning": 147,
+    "duplicates_removed": 3,
+    "rows_with_missing_values": 0,
+    "species_count": {
+        "versicolor": 50,
+        "virginica": 49,
+        "setosa": 48
+    }
+}
